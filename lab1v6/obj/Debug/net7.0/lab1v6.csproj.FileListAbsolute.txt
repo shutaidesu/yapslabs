@@ -1,0 +1,14 @@
+C:\Users\rawline\source\Полина\lab1v6\bin\Debug\net7.0\lab1v6.exe
+C:\Users\rawline\source\Полина\lab1v6\bin\Debug\net7.0\lab1v6.deps.json
+C:\Users\rawline\source\Полина\lab1v6\bin\Debug\net7.0\lab1v6.runtimeconfig.json
+C:\Users\rawline\source\Полина\lab1v6\bin\Debug\net7.0\lab1v6.dll
+C:\Users\rawline\source\Полина\lab1v6\bin\Debug\net7.0\lab1v6.pdb
+C:\Users\rawline\source\Полина\lab1v6\obj\Debug\net7.0\lab1v6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rawline\source\Полина\lab1v6\obj\Debug\net7.0\lab1v6.AssemblyInfoInputs.cache
+C:\Users\rawline\source\Полина\lab1v6\obj\Debug\net7.0\lab1v6.AssemblyInfo.cs
+C:\Users\rawline\source\Полина\lab1v6\obj\Debug\net7.0\lab1v6.csproj.CoreCompileInputs.cache
+C:\Users\rawline\source\Полина\lab1v6\obj\Debug\net7.0\lab1v6.dll
+C:\Users\rawline\source\Полина\lab1v6\obj\Debug\net7.0\refint\lab1v6.dll
+C:\Users\rawline\source\Полина\lab1v6\obj\Debug\net7.0\lab1v6.pdb
+C:\Users\rawline\source\Полина\lab1v6\obj\Debug\net7.0\lab1v6.genruntimeconfig.cache
+C:\Users\rawline\source\Полина\lab1v6\obj\Debug\net7.0\ref\lab1v6.dll
