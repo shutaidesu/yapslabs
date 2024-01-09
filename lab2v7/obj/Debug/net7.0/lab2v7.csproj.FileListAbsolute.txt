@@ -1,0 +1,14 @@
+C:\Users\rawline\source\Настя\lab2v7\bin\Debug\net7.0\lab2v7.exe
+C:\Users\rawline\source\Настя\lab2v7\bin\Debug\net7.0\lab2v7.deps.json
+C:\Users\rawline\source\Настя\lab2v7\bin\Debug\net7.0\lab2v7.runtimeconfig.json
+C:\Users\rawline\source\Настя\lab2v7\bin\Debug\net7.0\lab2v7.dll
+C:\Users\rawline\source\Настя\lab2v7\bin\Debug\net7.0\lab2v7.pdb
+C:\Users\rawline\source\Настя\lab2v7\obj\Debug\net7.0\lab2v7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rawline\source\Настя\lab2v7\obj\Debug\net7.0\lab2v7.AssemblyInfoInputs.cache
+C:\Users\rawline\source\Настя\lab2v7\obj\Debug\net7.0\lab2v7.AssemblyInfo.cs
+C:\Users\rawline\source\Настя\lab2v7\obj\Debug\net7.0\lab2v7.csproj.CoreCompileInputs.cache
+C:\Users\rawline\source\Настя\lab2v7\obj\Debug\net7.0\lab2v7.dll
+C:\Users\rawline\source\Настя\lab2v7\obj\Debug\net7.0\refint\lab2v7.dll
+C:\Users\rawline\source\Настя\lab2v7\obj\Debug\net7.0\lab2v7.pdb
+C:\Users\rawline\source\Настя\lab2v7\obj\Debug\net7.0\lab2v7.genruntimeconfig.cache
+C:\Users\rawline\source\Настя\lab2v7\obj\Debug\net7.0\ref\lab2v7.dll
